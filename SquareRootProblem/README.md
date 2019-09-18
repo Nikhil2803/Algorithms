@@ -1,5 +1,6 @@
 # Algorithms
-#Square Root Problem
+# Square Root Problem
+
 	To Find Square root of a given number
 	Square root of perfect square would be integer : Root of 4 = 2
  	Square root of imperfect square would be fractional number : Root of 2 = 1.414
@@ -11,5 +12,5 @@ Input :
 
 
 Output :  
- > K ; 7 ;Square Root of Given Number.
+ > K ; 1.414 ;Square Root of Given Number.
 
