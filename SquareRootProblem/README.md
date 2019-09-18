@@ -12,5 +12,8 @@ Input :
 
 
 Output :  
- > K ; 1.414 ;Square Root of Given Number.
+ >  1.414 ;Square Root of Given Number.
 
+
+# Solution 
+![Square Root GIF](SquareRootSolution.gif)
