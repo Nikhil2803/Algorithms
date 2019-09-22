@@ -1,6 +1,6 @@
-#Bool Allocation
+# Bool Allocation
 
-#Problem Statement: 
+# Problem Statement: 
  You are given N Books, ith of which has P(i) pages(P(i)<=P(j). If i<=j). 
  You have to assign these N books to M students such that each student has one or more books 
  and the maximum number of pages assigned to a student is minimized.
