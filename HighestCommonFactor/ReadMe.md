@@ -29,6 +29,6 @@ Ans: HCF of 14,28,35 and 49 i.e. 7
             
 >> 3. Similar to above method just in place of substraction we can use modulous operation that will reduce the number of itterations 
 
- Example:  18,15
+     Example:  18,15
             ->  18 % 15 = 3
             ->  15 % 3  = 0    3 is the HCF of 18 & 15
