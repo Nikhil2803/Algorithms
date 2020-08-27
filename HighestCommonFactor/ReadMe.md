@@ -15,9 +15,9 @@ Ans: HCF of 14,28,35 and 49 i.e. 7
 
 # Solution
 
-1. Iterate through all prime numbers and divide all the given numbers. The product of all the prime numbers that divided given numbers is HCF
+>> 1. Iterate through all prime numbers and divide all the given numbers. The product of all the prime numbers that divided given numbers is HCF
 
-2. Take two number for which you have to find HCF. Keep on substracting the numbers from bigger to smaller. At the end either you would have two equal numbers that will result 0 is substration or you would have 1 as result of substraction. If we get equal numbers than that would be the HCF or else 1 would be the HCF
+>> 2. Take two number for which you have to find HCF. Keep on substracting the numbers from bigger to smaller. At the end either you would have two equal numbers that will result 0 is substration or you would have 1 as result of substraction. If we get equal numbers than that would be the HCF or else 1 would be the HCF
 
     Example:  18,15
             ->  18 - 15 = 3
@@ -27,7 +27,7 @@ Ans: HCF of 14,28,35 and 49 i.e. 7
             ->   6 - 3 =  3
             ->   3 - 3  = 0      3 is the HCF of 18 & 15
             
-3. Similar to above method just in place of substraction we can use modulous operation that will reduce the number of itterations 
+>> 3. Similar to above method just in place of substraction we can use modulous operation that will reduce the number of itterations 
 
  Example:  18,15
             ->  18 % 15 = 3
