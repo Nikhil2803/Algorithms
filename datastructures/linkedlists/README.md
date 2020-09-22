@@ -3,3 +3,6 @@
 
 # Doubly Linked List
 ![DoublyLinkedList](DoublyLinkedList.PNG)
+
+# Circular Linked List
+![CircularLinkedList](CircularLinkedList.PNG)
