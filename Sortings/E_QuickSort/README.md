@@ -1,23 +1,22 @@
 # Quick Sort
 
 Idea: 
+-----
 
 Pivot element is placed on its sorted position.
 where all elemets smaller than it are on one side 
 and all elements bigger than it are on another side.
 
 Technique:
+-----
 
 Select a pivot and remove it.
 Run two pointers in opposite directions.
------
 Stop forward pointer if pointer element is bigger than pivot
 Stop backward pointer if pointer element is smaller than pivot.
 Swap the pointer elements
------
 Stops both the pointer when they cross eachother.
 Swap the pivot element with backward pointer.
------
 Repeat the process itteratively for smaller sections of collection.
 Smaller sections ( Divide collection /2/2/2/2/2)
 
